@@ -7,3 +7,5 @@ function celsiusToFarenheit (e) {
 }
 
 temperatureC.addEventListener('change', celsiusToFarenheit, false);
+
+console.log('hello');
